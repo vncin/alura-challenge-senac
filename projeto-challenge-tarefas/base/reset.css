@@ -1,0 +1,45 @@
+* {
+	box-sizing: border-box;
+  max-width: 100%;
+	margin: 0;
+	padding: 0;
+	border: none;
+	font-family: var(--fonte-principal);
+	font-size: 16px;
+	font-weight: unset;
+  }
+   
+  html {
+	scroll-behavior: smooth;
+  }	
+   
+  body {
+	background-color: var(--branco);
+  }
+   
+  a {
+	text-decoration: none;
+  }
+   
+  button {
+	background-color: unset;
+	cursor: pointer;
+  }
+   
+  ol,
+  ul {
+	list-style: none;
+  }
+   
+  svg {
+	display: block;
+  }
+   
+  ::placeholder {
+	color: #5c5c5c;
+	font-size: 0.8rem;
+  }
+   
+  fieldset {
+	border: none;
+  }

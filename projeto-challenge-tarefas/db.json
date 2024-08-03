@@ -1,0 +1,45 @@
+{
+  "tarefas": [
+    {
+      "id": "c57c",
+      "titulo": "Atualizar documentação",
+      "descricao": "Documentar novas funcionalidades e APIs.",
+      "prioridade": "Média",
+      "data": "19/08/2024",
+      "responsavel": [
+        "Fernanda"
+      ]
+    },
+    {
+      "id": "1890",
+      "titulo": "Otimizar consultas SQL",
+      "descricao": "Melhorar estrutura e legibilidade do código antigo.",
+      "prioridade": "Baixa",
+      "data": "10/08/2024",
+      "responsavel": [
+        "Luísa"
+      ]
+    },
+    {
+      "id": "0727",
+      "titulo": "Implementar autenticação",
+      "descricao": "Adicionar sistema de login seguro.",
+      "prioridade": "Média",
+      "data": "12/08/2024",
+      "responsavel": [
+        "Alice",
+        "Carlos"
+      ]
+    },
+    {
+      "titulo": "Teste 2",
+      "descricao": "  Alta prioridade                      ",
+      "prioridade": "Alta",
+      "data": "03/08/2024",
+      "responsavel": [
+        "Fabiano"
+      ],
+      "id": "FqK_FlB"
+    }
+  ]
+}
