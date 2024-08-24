@@ -1,7 +1,7 @@
 import PostModelo from "componentes/PostModelo";
 import fotoCapa from 'assets/sobre_mim_capa.png';
 import styles from './SobreMim.module.css';
-import fotoSobreMim from 'assets/sobre_mim_foto.png';
+import fotoSobreMim from 'assets/perfil.png';
 
 export default function SobreMim() {
     return (
@@ -10,7 +10,7 @@ export default function SobreMim() {
             titulo="Sobre mim"
         >
             <h3 className={styles.subtitulo}>
-                Olá, eu sou o Antônio!
+                Olá, eu sou o Vinicius!
             </h3>
 
             <img
@@ -19,25 +19,21 @@ export default function SobreMim() {
                 className={styles.fotoSobreMim}
             />
             <p className={styles.paragrafo}>
-                Oi, tudo bem? Eu sou instrutor de Front-end na Alura e estou feliz de te ver por aqui.
+                Oi, tudo bem? Eu sou instrutor de do Senac Petrolina e estou feliz de te ver por aqui.
             </p>
 
             <p className={styles.paragrafo}>
-                Minha história com programação começou no Instituto Federal do Piauí (IFPI), quando fiz o ensino médio integrado ao curso de Informática. Eu aprendi lógica de programação e o básico de várias linguagens, como PHP, Python, Java, mas sem aprofundar muito em cada uma delas. Eu gostava muito de estudar programação, mas na época não fazia ideia de que trabalharia com isso hoje.
+                Minha história com programação começou no Instituto Federal do Sertão Pernambucano (IFSertão-PE), quando fiz o ensino médio integrado ao curso de Informática. Eu aprendi lógica de programação e o básico de várias linguagens, como PHP, Python, Java, mas sem aprofundar muito em cada uma delas. Eu gostava muito de estudar programação, mas na época não fazia ideia de que trabalharia com isso hoje.
             </p>
 
             <p className={styles.paragrafo}>
-                No ensino superior, escolhi cursar Engenharia Elétrica na Universidade Federal do Piauí (UFPI). Lá eu consegui entrar no PET (Programa de Educação Tutorial), um grupo acadêmico que contribui de diversas formas para o curso. Lá eu tive a oportunidade de estudar desenvolvimento web para ser um dos mantenedores do site deles.
+                No ensino superior, escolhi cursar licenciatura em Computação pela mesma instituição (UFPI). Lá eu tive a oportunidade de estudar desenvolvimento web no desenvolvimento de projetos de pesquisa em iniciação tecnológica e inovação.
 
-                Com isso tive minha experiência de dev mais próxima da realidade, com prazos de implementação para o site, e aprendi muito enquanto codificava.
+                Com isso tive minha experiência de dev mais próxima da realidade, com prazos de implementação do sistema do projeto, e aprendi muito enquanto codificava.
             </p>
 
             <p className={styles.paragrafo}>
-                E foi enquanto eu estava no PET que decidi procurar um estágio em desenvolvimento web. Eu encontrei uma vaga na Alura para o Scuba Team e percebi que ela aliava duas paixões minhas: programação e educação. Para minha felicidade, fui escolhido para fazer parte do time.
-            </p>
-
-            <p className={styles.paragrafo}>
-                Desde então, tem sido aprenas aprendizados atrás de aprendizados. A Alura é uma escola não só para seus alunos e alunas, mas também para os colaboradores e colaboradoras. Hoje sou muito feliz de ter a oportunidade de trazer esses conteúdos ricos e encantadores para você. Espero que aprenda bastante!
+                Desde então, tem sido apenas aprendizados atrás de aprendizados. Atualmente sou Instrutor Pleno no Senac Petrolina - PE e em parceria com A Alura, que é uma escola não só para seus alunos e alunas, mas também para os colaboradores e colaboradoras. Hoje sou muito feliz de participar dessa formação/parceria e ter a oportunidade de trazer esses conteúdos ricos e encantadores para você. Espero que aprenda bastante!
             </p>
 
 

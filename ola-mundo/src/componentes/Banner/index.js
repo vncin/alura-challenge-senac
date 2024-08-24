@@ -1,6 +1,6 @@
 import styles from './Banner.module.css';
 import circuloColorido from 'assets/circulo_colorido.png';
-import minhaFoto from 'assets/minha_foto.png';
+import minhaFoto from 'assets/perfil.png';
 
 export default function Banner(){
     return (
@@ -10,7 +10,7 @@ export default function Banner(){
                     Olá, Mundo"
                 </h1>
 
-                <p className={styles.paragrafo}> Boas vindas ao meu espaço pessoal! Eu sou Antônio Evaldo, instrutor de Front-end da Alura. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :) </p>
+                <p className={styles.paragrafo}> Boas vindas ao meu espaço pessoal! Eu sou Vinicius Dantas, instrutor pleno do Senac Petrolina - PE. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :) </p>
             </div>
             <div className={styles.imagens}>
                 <img className={styles.circuloColorido}
