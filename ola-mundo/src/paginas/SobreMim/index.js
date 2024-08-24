@@ -27,7 +27,7 @@ export default function SobreMim() {
             </p>
 
             <p className={styles.paragrafo}>
-                No ensino superior, escolhi cursar licenciatura em Computação pela mesma instituição (UFPI). Lá eu tive a oportunidade de estudar desenvolvimento web no desenvolvimento de projetos de pesquisa em iniciação tecnológica e inovação.
+                No ensino superior, escolhi cursar licenciatura em Computação pela mesma instituição. Lá eu tive a oportunidade de estudar desenvolvimento web no desenvolvimento de projetos de pesquisa em iniciação tecnológica e inovação.
 
                 Com isso tive minha experiência de dev mais próxima da realidade, com prazos de implementação do sistema do projeto, e aprendi muito enquanto codificava.
             </p>
